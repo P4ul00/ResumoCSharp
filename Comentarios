@@ -1,0 +1,10 @@
+--Os comentarios em CShap são feitos usando barrras (quando forem em linha unica)
+exemplo:
+
+//assim que será um comentario em uma linha
+
+-- Os comentarios que precisarem de mais de uma linha começam com /* e terminam com */
+exemplo:
+
+*/os comentarios que
+precisam de varias linhas ficaram assim*/
