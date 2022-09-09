@@ -1,0 +1,24 @@
+Tipos de numeros:
+
+inteiros
+Ponto Flutuante
+
+inteiros:
+
+armazena números inteiros,positivos ou negativos (como 123 ou -456), sem decimais. 
+Os tipos válidos são int e long. O tipo que você deve usar depende do valor numérico.
+
+Ponto Flutuante:
+
+representam números com uma parte fracionária, contendo um ou mais decimais.
+Os tipos válidos são floate e double.
+
+
+Int/long
+
+o Int tem uma capacidade de armazenar até certo numero, já o Long ultrapassa esse numero
+sendo assim usado quando o Int nao e suficiente para armazenar algum valor.
+
+
+
+
