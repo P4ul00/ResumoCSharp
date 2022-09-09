@@ -18,7 +18,3 @@ Int/long
 
 o Int tem uma capacidade de armazenar até certo numero, já o Long ultrapassa esse numero
 sendo assim usado quando o Int nao e suficiente para armazenar algum valor.
-
-
-
-
