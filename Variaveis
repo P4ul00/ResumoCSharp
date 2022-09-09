@@ -6,6 +6,17 @@ Tipos de variaveis:
 -string
 -bool
 
+
+
+Regras de nomeaçao:
+
+Os nomes podem ter letras,dígitos
+Os nomes devem começar com uma letra
+Os nomes diferenciam maiúsculas de minúsculas ("myVar" e "myvar" são variáveis ​​diferentes)
+Os nomes não podem ter espaços em branco
+
+
+
 --int: 
 armazena numeros inteiros (sem decimais)
 exemplo: 12 ou -12 
@@ -28,6 +39,8 @@ exemplo: "Ola"
 armazena valores com dois estados
 exemplo: verdadeiro ou falso
 
+
+
 DECLARAR VARIAVEIS
 
 type variableName = value;
@@ -36,6 +49,12 @@ type: int,double,strinh,etc
 value: valor ou texto que a variavel vai receber
 
 exemplo:  string nome = "paulo";
+
+
+
+DECLARAR MUITAS VARIAVEIS DO MESMO TIPO
+
+int x = 5, y = 6, z = 50;
 
 
 -Juntar dois nomes:
@@ -50,3 +69,8 @@ Console.WriteLine(NomeCompleto);
 int a = 8;
 int b = 12;
 Console.WriteLine(a + b);
+
+-Somar varios numeros:
+
+int a = 5, b = 10, c = 15;
+Console.WriteLine(a + b + c);
