@@ -1,0 +1,23 @@
+No C#, existem dois tipos de conversão:
+
+implícito (automaticamente)
+convertendo um tipo menor em um tamanho de tipo maior
+char->   int->   long->   float->   double
+
+explícito (manualmente) 
+convertendo um tipo maior em um tipo de tamanho menor
+double->   float->   long->   int->   char
+
+
+Também é possível converter tipos de dados explicitamente usando métodos internos
+como Convert.ToBoolean,Convert.ToDouble,Convert.ToString,Convert.ToInt32(int) e Convert.ToInt64(long):
+
+Exemplo
+int A = 6;
+double B = 12,1;
+bool C = true;
+
+Console.WriteLine(Convert.ToString(A)));     // converte de int para string
+Console.WriteLine(Convert.ToDouble(A));     // converte de int para double
+Console.WriteLine(Convert.ToInt32(B));     // converte de double para int
+Console.WriteLine(Convert.ToString(C));   // converte de bool para string
