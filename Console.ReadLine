@@ -1,0 +1,9 @@
+O Console.WriteLine serve para mostrar os valores, agora vamos usar o Console.ReadLine() para receber valores
+
+Console.WriteLine("Escreva seu nome:"); //escrevera essa mensagem na tela
+string Nome = Console.ReadLine();   //entendera que deve receber e armazenar oque o usuario escrever nessa variavel
+Console.WriteLine("Seu nome é: " + Nome);   // ira escrever essa mensagem e o nome inserido pelo usuario
+
+Console.WriteLine("Digite sua idade:");
+int idade = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Sua idade é: " + idade);
