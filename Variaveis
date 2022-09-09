@@ -1,0 +1,52 @@
+Tipos de variaveis:
+
+-int
+-double
+-char
+-string
+-bool
+
+--int: 
+armazena numeros inteiros (sem decimais)
+exemplo: 12 ou -12 
+
+--double:
+armazena numeros com decimais
+exemplo: 12,1 ou -12,1
+
+--char:
+armazena caracteres únicos
+como 'a' ou 'B'. 
+(Os valores de caractere são cercados por aspas simples)
+
+--string:
+armazena textos
+exemplo: "Ola"
+(os valores string são cercados por aspas duplas)
+
+--boll:
+armazena valores com dois estados
+exemplo: verdadeiro ou falso
+
+DECLARAR VARIAVEIS
+
+type variableName = value;
+
+type: int,double,strinh,etc
+value: valor ou texto que a variavel vai receber
+
+exemplo:  string nome = "paulo";
+
+
+-Juntar dois nomes:
+
+string Nome = "Paulo";
+string Sobrenome = "Ricardo";
+string NomeCompleto = Nome + Sobrenome;
+Console.WriteLine(NomeCompleto);
+
+-Somar dois numeros:
+
+int a = 8;
+int b = 12;
+Console.WriteLine(a + b);
