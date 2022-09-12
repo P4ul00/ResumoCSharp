@@ -1,0 +1,19 @@
+Use if para especificar um bloco de código a ser executado, se uma condição especificada for verdadeira
+Use else para especificar um bloco de código a ser executado, se a mesma condição for falsa
+Use else if para especificar uma nova condição a ser testada, se a primeira condição for falsa
+Use switch para especificar muitos blocos alternativos de código a serem executados
+
+Exemplo:
+
+int A=2;
+int B=1;
+if(A>B)
+{
+    Console.Writeline("A é maior que B")
+}
+else
+{
+   Console.WriteLine("B é maior que A") 
+}
+
+
