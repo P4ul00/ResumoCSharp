@@ -1,0 +1,9 @@
+Cria loops Os loops que podem executar um bloco de código desde que uma condição especifica seja feita.
+Os loops são úteis para economizar tempo, reduzir erros e tornar o código mais legível.
+
+int i = 0;
+while (i < 5) 
+{
+  Console.WriteLine(i);
+  i++;
+}
