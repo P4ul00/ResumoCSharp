@@ -1,0 +1,11 @@
+Possui 2 valores como:
+sim não
+verdadeiro falso
+
+Para declarar uma variavel do tipo Booleans usamos Bool e damos o valor de true ou false
+Exemplo:
+
+bool A = true;
+bool B = false;
+Console.WriteLine(A);  
+Console.WriteLine(B); 
