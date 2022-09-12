@@ -1,0 +1,11 @@
+e o metodo usado para encontrar o maior/menor valor entre X e Y
+
+-Math.Max
+
+Math.Max(5,10);
+//o maior sera 10
+
+-Math.Min
+
+Math.Min(5,10);
+//o menor sera 5
