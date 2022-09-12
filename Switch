@@ -1,0 +1,27 @@
+O valor da expressão é comparado com os valores de cadacase
+Se houver uma correspondência, o bloco de código associado é executado
+
+int A = 4;
+switch (A) 
+{
+  case 1:
+    Console.WriteLine("Monday");
+    break;
+  case 2:
+    Console.WriteLine("Tuesday");
+    break;
+  case 3:
+    Console.WriteLine("Wednesday");
+    break;
+  case 4:
+    Console.WriteLine("Thursday");
+    break;
+  case 5:
+    Console.WriteLine("Friday");
+    break;
+  case 6:
+    Console.WriteLine("Saturday");
+    break;
+  case 7:
+    Console.WriteLine("Sunday");
+    break;
