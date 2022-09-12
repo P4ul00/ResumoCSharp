@@ -1,0 +1,20 @@
+=
+//o simbolo de igual indica que uma variavel vai recber o valor
+
+==
+// verifica se um valor é igual ou não a outro
+
+!=
+// verifica se um valor e diferente ou não a outro
+
+>
+// verifica se um valor é maior ou não a outro
+
+<
+// verifica se um valor é menor ou não a outro
+
+>=
+// verifica se um valor é maior ou igual a outro valor
+
+<=
+// verifica se um valor é menor ou igual a outro valor
